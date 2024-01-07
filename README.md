@@ -31,18 +31,19 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-## 💪 Motivation
-<p style="color: gray;">Coming soon...</p>
-
-## 📫 Connect
-<p style="color: gray;">Coming soon...</p>
-
 <!-- Additional Sections -->
 ## 📚 Education
 <p style="color: gray;">Coming soon...</p>
 
 ## 🚀 Projects
 <p style="color: gray;">Coming soon...</p>
+
+## 💪 Motivation
+<p style="color: gray;">Coming soon...</p>
+
+## 📫 Connect
+<p style="color: gray;">Coming soon...</p>
+
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
 
