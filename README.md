@@ -6,7 +6,7 @@
 - 🔭 I’m currently working on [todo list](https://github.com/Mego-Program/Specs-1-JLM)
 - 🌱 I’m currently learning **Frameworks, Courses, etc.**
 - 📫 How to reach me: **std.elad@gmail.com**
-- ⚡ Fun fact: **I'm happy 🥳**
+- ⚡ Fun fact: **I always find reasons to smile 😊**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
