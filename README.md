@@ -31,12 +31,14 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-<!-- Additional Sections -->
+<!-- Additional Sections
 ## 📚 Education
 <p style="color: gray;">Coming soon...</p>
 
 ## 🚀 Projects
 <p style="color: gray;">Coming soon...</p>
+-->
+
 
 ## 💪 Motivation
 <p style="color: gray;">Coming soon...</p>
