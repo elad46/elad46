@@ -12,6 +12,10 @@
 <p align="left">
 <a href="https://linkedin.com/in/elad-amar46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elad-amar46" height="30" width="40" /></a>
 </p>
+ <a href="mailto:std.elad@gmail.com">
+    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="elad-email" height="30" width="30"/>
+  </a>
+</p>
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left">
