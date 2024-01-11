@@ -36,11 +36,13 @@
 </p>
 
 <!-- Additional Sections
+
 ## 📚 Education
 <p style="color: gray;">Coming soon...</p>
 
 ## 🚀 Projects
 <p style="color: gray;">Coming soon...</p>
+
 -->
 
 
@@ -55,4 +57,3 @@
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elad46&show_icons=true&locale=en" alt="elad46" /></p>
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=elad46&" alt="elad46" /></p>
