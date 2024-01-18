@@ -50,7 +50,31 @@
 <p style="color: gray;">Coming soon...</p>
 
 ## 📫 Connect
-<p style="color: gray;">Coming soon...</p>
+<p style="color: gray;">📫 Ways to get in touch
+
+I am available for contact via the following channels:
+
+<p align="left">
+<a href="mailto:std.elad@gmail.com">
+   <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="your-email" height="30" width="30"/ >
+   Email
+</a>
+</p>
+
+<p align="left">
+<a href="https://www.linkedin.com/in/elad-amar46/" target="blank">
+   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "your-linkedin" height="30" width="40" />
+   LinkedIn
+</a>
+</p>
+
+<!-- For the WhatsApp link, use the 'https://wa.me/<your-number>' link with your number -->
+<p align="left">
+<a href="https://wa.me/your-whatsapp-number" target="blank">
+   <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="your-whatsapp" height="30" width="30" />
+   WhatsApp
+</a>
+</p></p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
