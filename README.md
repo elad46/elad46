@@ -70,11 +70,11 @@ I am available for contact via the following channels:
 
 <!-- For the WhatsApp link, use the 'https://wa.me/<your-number>' link with your number -->
 <p align="left">
-<a href="https://wa.me/your-whatsapp-number" target="blank">
-   <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="your-whatsapp" height="30" width="30" />
-   WhatsApp
+<a href="https://wa.me/972503023140" target="blank">
+  <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="Elad's WhatsApp" height="30" width="30"/>
+  WhatsApp
 </a>
-</p></p>
+</p>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
