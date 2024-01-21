@@ -43,11 +43,10 @@
 ## 🚀 Projects
 <p style="color: gray;">Coming soon...</p>
 
--->
-
 
 ## 💪 Motivation
 <p style="color: gray;">Coming soon...</p>
+-->
 
 ## 📫 Connect
 <p style="color: gray;">📫 Ways to get in touch
