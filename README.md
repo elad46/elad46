@@ -1,20 +1,29 @@
 <h1 align="center">Hi 👋, I'm Elad Amar</h1>
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
+
+## 👋 About Me
+I'm a software development student with a passion for innovation and new technologies. 🚀 Focusing on Python and React, I am interested in open source and would love to collaborate on fascinating projects.
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elad46&label=Profile%20views&color=0e75b6&style=flat" alt="elad46" /> </p>
 <img id="background-gif" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="position: absolute; top: 0; left: 0; width: 100%;" alt="background gif">
 
 - 🔭 I’m currently working on [todo list](https://github.com/Mego-Program/Specs-1-JLM)
 - 🌱 I’m currently learning **Frameworks, Courses, etc.**
-- 📫 How to reach me: **std.elad@gmail.com**
 - ⚡ Fun fact: **I always find reasons to smile 😊**
 
-<h3 align="left">Connect with me:</h3>
+## 📫 Connect with me
 <p align="left">
-<a href="https://linkedin.com/in/elad-amar46" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elad-amar46" height="30" width="40" /></a>
-</p>
- <a href="mailto:std.elad@gmail.com">
-    <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="elad-email" height="30" width="30"/>
-  </a>
+    <a href="mailto:std.elad@gmail.com">
+        <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="elad-email" height="30" width="30"/>
+    </a>
+    &emsp; <!-- רווח גדול בין הסמלים -->
+    <a href="https://linkedin.com/in/elad-amar46" target="blank">
+        <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elad-amar46" height="30" width="40" />
+    </a>
+    &emsp; <!-- רווח גדול נוסף -->
+    <a href="https://wa.me/972503023140" target="blank">
+        <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="Elad's WhatsApp" height="30" width="30"/>
+    </a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
@@ -35,48 +44,9 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-<!-- Additional Sections
+<!-- Additional Sections -->
 
-## 📚 Education
-<p style="color: gray;">Coming soon...</p>
-
-## 🚀 Projects
-<p style="color: gray;">Coming soon...</p>
-
-
-## 💪 Motivation
-<p style="color: gray;">Coming soon...</p>
--->
-
-## 📫 Connect
-<p style="color: gray;">📫 Ways to get in touch
-
-I am available for contact via the following channels:
-
-<p align="left">
-<a href="mailto:std.elad@gmail.com">
-   <img align="center" src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="your-email" height="30" width="30"/ >
-   Email
-</a>
-</p>
-
-<p align="left">
-<a href="https://www.linkedin.com/in/elad-amar46/" target="blank">
-   <img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt= "your-linkedin" height="30" width="40" />
-   LinkedIn
-</a>
-</p>
-
-<!-- For the WhatsApp link, use the 'https://wa.me/<your-number>' link with your number -->
-<p align="left">
-<a href="https://wa.me/972503023140" target="blank">
-  <img align="center" src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="Elad's WhatsApp" height="30" width="30"/>
-  WhatsApp
-</a>
-</p>
-
+<!-- Education, Projects, Motivation -->
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
-
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elad46&show_icons=true&locale=en" alt="elad46" /></p>
-
