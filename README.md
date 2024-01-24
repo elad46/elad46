@@ -2,7 +2,12 @@
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
 ## 👋 About Me
-I'm a software development student with a passion for innovation and new technologies. 🚀 Focusing on Python and React, I am interested in open source and would love to collaborate on fascinating projects.
+👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and React, I'm interested in open-source and eager to collaborate on fascinating projects.
+
+🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my skills and contribute to exciting projects.
+
+Hobbies beyond the keyboard:
+🌊 Diving and exploring underwater creations and experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elad46&label=Profile%20views&color=0e75b6&style=flat" alt="elad46" /> </p>
 <img id="background-gif" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="position: absolute; top: 0; left: 0; width: 100%;" alt="background gif">
