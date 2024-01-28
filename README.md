@@ -4,9 +4,7 @@
 ## 👋 About Me
 👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and React, I'm interested in open-source and eager to collaborate on fascinating projects.
 
-🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my skills and contribute to exciting projects.
-
-Hobbies beyond the keyboard:
+**Hobbies beyond the keyboard:**
 🌊 Diving and exploring underwater creations and experiences.
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=elad46&label=Profile%20views&color=0e75b6&style=flat" alt="elad46" /> </p>
@@ -16,16 +14,19 @@ Hobbies beyond the keyboard:
 - 🌱 I’m currently learning **Frameworks, Courses, etc.**
 - ⚡ Fun fact: **I always find reasons to smile 😊**
 
+## 🎯 My Goal
+🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my skills and contribute to exciting projects.
+
 ## 📫 Connect with me
 <p align="left">
     <a href="mailto:std.elad@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="elad-email" height="30" width="30"/>
     </a>
-    &emsp; <!-- רווח גדול בין הסמלים -->
+    &emsp;
     <a href="https://linkedin.com/in/elad-amar46" target="blank">
         <img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="elad-amar46" height="30" width="40" />
     </a>
-    &emsp; <!-- רווח גדול נוסף -->
+    &emsp;
     <a href="https://wa.me/972503023140" target="blank">
         <img src="https://img.icons8.com/color/48/000000/whatsapp--v1.png" alt="Elad's WhatsApp" height="30" width="30"/>
     </a>
