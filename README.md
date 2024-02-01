@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elad Amar</h1>
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
-## About Me
+## About Me.
 👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and React, I'm interested in open-source and eager to collaborate on fascinating projects.
 
 **Hobbies beyond the keyboard:**
@@ -14,10 +14,10 @@
 - 🌱 I’m currently learning **Frameworks, Courses, etc.**
 - ⚡ Fun fact: **I always find reasons to smile 😊**
 
-## 🎯 My Goal
+## 🎯 My Goal.
 🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my skills and contribute to exciting projects.
 
-## 📫 Connect with me
+## 📫 Connect with me.
 <p align="left">
     <a href="mailto:std.elad@gmail.com">
         <img src="https://img.icons8.com/color/48/000000/gmail-new.png" alt="elad-email" height="30" width="30"/>
@@ -37,7 +37,7 @@
 <!-- Add your languages and tools here with images -->
 </p>
 
-## 🛠 Skills
+## 🛠 Skills.
 <p align="left">
   <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
   <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
