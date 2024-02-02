@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Elad Amar</h1>
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
-
-
 ## About Me.
 👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and React, I'm interested in open-source and eager to collaborate on fascinating projects.
 
@@ -15,7 +13,6 @@
 - 🔭 Currently, my main focus is on **securing a job** that aligns with my skills and passions.
 - 🌱 I’m currently learning **Frameworks, Courses, etc.**
 - ⚡ Fun fact: **I always find reasons to smile 😊**
-
 
 ## 🎯 My Goal.
 🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my skills and contribute to exciting projects.
@@ -54,11 +51,7 @@
 </p>
 
 <!-- Additional Sections -->
-
 <!-- Education, Motivation -->
-
-
-
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elad46&show_icons=true&locale=en" alt="elad46" /></p>
