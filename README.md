@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
 ## About Me.
-👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and React, I'm interested in open-source and eager to collaborate on fascinating projects.
+👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and Linux, I'm interested in open-source and eager to collaborate on fascinating projects.
 
 **Hobbies beyond the keyboard:**
 🌊 Diving and exploring underwater creations and experiences.
