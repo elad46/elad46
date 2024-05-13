@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Elad Amar</h1>
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
-![ימים בלעדיכם](https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-188-blue)
+![ימים בלעדיכם](https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D- -blue)
 
 
 ## About Me.
@@ -53,8 +53,6 @@
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
 </p>
 
-<!-- Additional Sections -->
-<!-- Education, Motivation -->
  
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=elad46&show_icons=true&locale=en" alt="elad46" /></p>
