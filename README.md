@@ -3,7 +3,6 @@
 
 ![ימים בלעדיכם](https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-229-blue)
 
-
 ## About Me.
 👋 Hello, I'm a Software Development student and a technology enthusiast. 🚀 Focused on Python and Linux, I'm interested in open-source and eager to collaborate on fascinating projects.
 
