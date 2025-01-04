@@ -2,7 +2,7 @@ name: Update Days Badge
 
 on:
   schedule:
-    - cron: '0 0 * * *'  # runs at midnight every day
+    - cron: '29 6 * * *'  # runs at 06:29 every day
   workflow_dispatch:
 
 jobs:
@@ -15,16 +15,21 @@ jobs:
     
     - name: Update README
       run: |
-        # מחשב את מספר הימים החדש
-        CURRENT_DAYS=$(grep -oP '(?<=🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-)\d+' README.md)
-        NEW_DAYS=$((CURRENT_DAYS + 1))
+        # מחשב את מספר הימים מאז 7.10.2023 06:29
+        START_DATE="2023-10-07"
+        CURRENT_DATE=$(date -u +"%Y-%m-%d")
+        DAYS=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
         
         # מעדכן את ה-README
-        sed -i "s/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-$CURRENT_DAYS/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-$NEW_DAYS/" README.md
+        sed -i "s/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-[0-9]*/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-$DAYS/" README.md
         
-        # מבצע commit ו-push
-        git config --local user.email "github-actions[bot]@users.noreply.github.com"
-        git config --local user.name "github-actions[bot]"
-        git add README.md
-        git commit -m "Update days count to $NEW_DAYS [skip ci]"
-        git push
+        # מבצע commit ו-push רק אם יש שינויים
+        if git diff --exit-code; then
+          echo "No changes to commit"
+        else
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          git add README.md
+          git commit -m "Update days count to $DAYS [skip ci]"
+          git push
+        fi
