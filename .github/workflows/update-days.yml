@@ -16,7 +16,7 @@ jobs:
     - name: Update README
       run: |
         # מחשב את מספר הימים מאז 7.10.2023 06:29
-        START_DATE="2023-10-07"
+        START_DATE="2023-10-06"
         CURRENT_DATE=$(date -u +"%Y-%m-%d")
         DAYS=$(( ( $(date -d "$CURRENT_DATE" +%s) - $(date -d "$START_DATE" +%s) ) / 86400 ))
         
