@@ -2,7 +2,7 @@
 <h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-648-blue" alt="Days without you" />
+  <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-649-blue" alt="Days without you" />
 </p>
 
 
