@@ -49,6 +49,7 @@
   <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
   <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
   <img src="https://img.shields.io/badge/-Slack-4A154B?style=flat&logo=slack&logoColor=white" alt="Slack" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
 </p>
 
 ## 📊 GitHub Stats
