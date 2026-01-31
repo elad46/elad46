@@ -2,27 +2,22 @@
 <h3 align="center">Software Developer | Pythonist | Linux Power User <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-848-blue" alt="Days without you" />
+  <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-844-blue" alt="Days without you" />
 </p>
 
 ---
 
 ## 👨‍💻 My Terminal Session
-```bash
-# Elad's Quick Info
-$ curl [https://api.elad.dev/profile](https://api.elad.dev/profile)
 
-{
-  "role": "Software Developer",
-  "focus": ["Python", "Linux Automation", "Fullstack"],
-  "hobbies": ["Scuba Diving 🌊", "Shell Scripting 🐧"],
-  "motto": "I always find reasons to smile 😊"
-}
+> **$ elad --info**
+>
+> **Role:** Software Developer  
+> **Focus:** Python, Linux Automation, Fullstack  
+> **Hobbies:** Scuba Diving 🌊, Shell Scripting 🐧  
+> **Motto:** "I always find reasons to smile 😊"
 
 ---
 
-### חלק 2 (הגביעים והכלים):
-```text
 ## 🏆 GitHub Trophies
 <p align="center">
   <a href="https://github.com/ryo-ma/github-profile-trophy">
@@ -42,8 +37,6 @@ $ curl [https://api.elad.dev/profile](https://api.elad.dev/profile)
 | **Databases** | `MongoDB` `PostgreSQL` |
 
 ---
-
-
 
 ## 📈 Activity & Insights
 <p align="center">
