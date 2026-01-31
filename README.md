@@ -1,36 +1,61 @@
 <h1 align="center">Hi 👋, I'm Elad Amar</h1>
-<h3 align="center">Software Developer | Python & Linux Enthusiast</h3>
+<h3 align="center">A passionate software developer from Israel <img src="https://media.giphy.com/media/fnagW93r8Dc2I/giphy.gif" width="30px"></h3>
 
 <p align="center">
   <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-844-blue" alt="Days without you" />
 </p>
 
----
 
-### ⚡ Quick Overview
-I am a Software Development student focused on building efficient applications with **Python** and mastering the **Linux** ecosystem. I specialize in backend logic and using **Bash** to automate development workflows.
+## About Me
+👋 **Hello!** I'm a Software Development student and a technology enthusiast. 🚀 
+I specialize in **Python** development and I'm a huge fan of the **Linux** ecosystem. I love building smart solutions and using **Bash scripting** to make everything run faster and smoother. Eager to collaborate on fascinating projects!
 
-- 🔭 **Now:** Seeking my first professional opportunity in Software Development.
-- 🐧 **Linux:** Comfortable with CLI, scripting, and system automation.
-- 🌊 **Personal:** Scuba diver and a technology optimist.
+**Hobbies beyond the keyboard:**
+- 🌊 Diving and exploring underwater creations and experiences.
+- 🐧 Mastering the Linux command line.
 
----
+<p align="left"> 
+  <img src="https://komarev.com/ghpvc/?username=elad46&label=Profile%20views&color=0e75b6&style=flat" alt="elad46" /> 
+</p>
 
-### 🛠 Tech Stack
-**Languages & Tools:**
-`Python` • `Bash Scripting` • `JavaScript` • `Linux (CLI)` • `Git` • `SQL` • `Node.js` • `React`
+<img id="background-gif" src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" style="width: 100%;" alt="background gif">
 
----
+- 🔭 Currently, my main focus is on **securing a job** that aligns with my skills and passions.
+- 🌱 I’m currently diving deep into **Linux System Administration & Advanced Bash Automation.**
+- ⚡ Fun fact: **I always find reasons to smile 😊**
 
-### 📫 Connect with me
+## 🎯 My Goal
+🌟 I'm currently seeking my first professional opportunity in software development, where I can apply my Python skills and Linux knowledge to contribute to exciting projects.
+
+## 📫 Connect with me
 <p align="left">
-  <a href="mailto:std.elad@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white" /></a>
-  <a href="https://linkedin.com/in/elad-amar46"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=flat-square&logo=linkedin&logoColor=white" /></a>
-  <a href="https://wa.me/972503023140"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=flat-square&logo=whatsapp&logoColor=white" /></a>
+  <a href="mailto:std.elad@gmail.com" target="_blank">
+    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Gmail Badge" />
+  </a>
+  <a href="https://linkedin.com/in/elad-amar46" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://wa.me/972503023140" target="_blank">
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp Badge" />
+  </a>
 </p>
 
+## 🛠 Skills
+<p align="left">
+  <img src="https://img.shields.io/badge/-Python-3776AB?style=flat&logo=Python&logoColor=white" alt="Python" />
+  <img src="https://img.shields.io/badge/-Linux-FCC624?style=flat&logo=linux&logoColor=black" alt="Linux" />
+  <img src="https://img.shields.io/badge/-Bash-4EAA25?style=flat&logo=gnu-bash&logoColor=white" alt="Bash" />
+  <img src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" alt="JavaScript" />
+  <img src="https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white" alt="HTML5" />
+  <img src="https://img.shields.io/badge/-CSS3-1572B6?style=flat&logo=css3&logoColor=white" alt="CSS3" />
+  <img src="https://img.shields.io/badge/-React-61DAFB?style=flat&logo=react&logoColor=black" alt="React" />
+  <img src="https://img.shields.io/badge/-Node.js-339933?style=flat&logo=node.js&logoColor=white" alt="Node.js" />
+  <img src="https://img.shields.io/badge/-MongoDB-47A248?style=flat&logo=mongodb&logoColor=white" alt="MongoDB" />
+  <img src="https://img.shields.io/badge/-SQL-4479A1?style=flat&logo=postgresql&logoColor=white" alt="SQL" />
+</p>
+
+## 📊 GitHub Stats
 <p align="center">
-  <img src="https://steamuserimages-a.akamaihd.net/ugc/94976727961336051/0807F669892C401BA9C1570B4C71CEAD8B20C116/?imw=5000&imh=5000&ima=fit&impolicy=Letterbox&imcolor=%23000000&letterbox=false" width="100%" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=elad46&show_icons=true&locale=en&layout=compact" alt="elad46" />
+  <img align="center" src="https://github-readme-stats.vercel.app/api?username=elad46&show_icons=true&locale=en" alt="elad46" />
 </p>
-
-<h4 align="center">"I always find reasons to smile 😊"</h4>
