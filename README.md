@@ -5,6 +5,10 @@
   <img src="https://img.shields.io/badge/🎗️%D7%99%D7%9E%D7%99%D7%9D%20%D7%91%D7%9C%D7%A2%D7%93%D7%99%D7%9B%D7%9D-859-blue" alt="Days without you" />
 </p>
 
+<h3 align="center">
+  <kbd>🎗️ כולם בבית 🎗️</kbd>
+</h3>
+
 
 ## About Me
 👋 **Hello!** I'm a Software Development student and a technology enthusiast. 🚀 
